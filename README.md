@@ -1,9 +1,10 @@
 # Rodent-Prevention-System
-**Introduction**
+**Introduction:**
 
 Rodents pose a significant threat to vehicles, causing extensive damage and safety hazards. This project introduces a pioneering solution: a rodent prevention system tailored for vehicle use during rest periods. The system integrates advanced sensors capable of detecting rodent activity and precisely locating the affected area. Upon detection, the system swiftly alerts the vehicle owner and employs innovative techniques to repel rodents.
 
-**Features**
+**Features:**
+
 Rodent Detection: Utilizes IR and ultrasonic sensors to detect rodent presence and measure distance.
 Notification System: Sends real-time alerts and images via the Telegram application.
 Rodent Repellent: Emits deterrent ultrasonic waves and activates a buzzer to scare rodents away.
