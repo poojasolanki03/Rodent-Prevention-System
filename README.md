@@ -1,5 +1,6 @@
 # Rodent-Prevention-System
 **Introduction**
+
 Rodents pose a significant threat to vehicles, causing extensive damage and safety hazards. This project introduces a pioneering solution: a rodent prevention system tailored for vehicle use during rest periods. The system integrates advanced sensors capable of detecting rodent activity and precisely locating the affected area. Upon detection, the system swiftly alerts the vehicle owner and employs innovative techniques to repel rodents.
 
 **Features**
