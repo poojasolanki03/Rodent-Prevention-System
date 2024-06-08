@@ -6,7 +6,9 @@ Rodents pose a significant threat to vehicles, causing extensive damage and safe
 **Features:**
 
 Rodent Detection: Utilizes IR and ultrasonic sensors to detect rodent presence and measure distance.
+
 Notification System: Sends real-time alerts and images via the Telegram application.
+
 Rodent Repellent: Emits deterrent ultrasonic waves and activates a buzzer to scare rodents away.
 Remote Monitoring: Allows users to monitor the system and receive notifications on their smartphones or tablets.
 
