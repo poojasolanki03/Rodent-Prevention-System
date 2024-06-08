@@ -10,19 +10,30 @@ Rodent Detection: Utilizes IR and ultrasonic sensors to detect rodent presence a
 Notification System: Sends real-time alerts and images via the Telegram application.
 
 Rodent Repellent: Emits deterrent ultrasonic waves and activates a buzzer to scare rodents away.
+
 Remote Monitoring: Allows users to monitor the system and receive notifications on their smartphones or tablets.
 
 **Installation
+
 Prerequisites**
+
 -Arduino IDE
+
 -ESP32 CAM Module
+
 -FTDI Programmer
+
 -Telegram Account and Bot API Token
 
+
 **Steps**
+
 1.Clone the repository:
+
 git clone https://github.com/poojasolanki03/rodent-prevention-system.git
+
 cd rodent-prevention-system
+
 
 2.Install dependencies:
 Ensure you have the necessary libraries installed in the Arduino IDE:
